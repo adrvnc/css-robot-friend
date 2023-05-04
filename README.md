@@ -9,7 +9,7 @@ A fun and interactive exercise using CSS properties to assemble a robot animatio
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I've Learned](#what-i've-learned)
-  - [Useful resources](#useful-resources)
+  - [Useful Resources](#useful-resources)
 ## Overview
 ### Screenshot
 
