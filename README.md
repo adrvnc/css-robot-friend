@@ -6,8 +6,8 @@ A fun and interactive exercise using CSS properties to assemble a robot animatio
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [My Process](#my-process)
+  - [Built With](#built-with)
   - [What I've Learned](#what-i've-learned)
   - [Useful Resources](#useful-resources)
 ## Overview
@@ -19,11 +19,11 @@ A fun and interactive exercise using CSS properties to assemble a robot animatio
 - [GitHub Repo URL](https://github.com/adrvnc/css-robot-friend)
 - [Live Site URL](https://adrvnc.github.io/css-robot-friend/)
 ## My Process
-### Built with 
+### Built With 
 
 - HTML5 
 - CSS3 
-### What I've learned 
+### What I've Learned 
 
 - Acquired proficiency in utilizing CSS margin and position properties to complete this exerciese in the Zero to Mastery course. 
 ## Useful Resources 
