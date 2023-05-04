@@ -1,6 +1,6 @@
 # CSS Robot Friend
 
-A fun and interactive exercise using CSS properties to assemble a robot animation.
+A fun and interactive exercise using CSS properties to assemble a robot animation. Interact with the robot and watch as it's head expands and it's left leg moves on hover. 
 
 ## Table of contents
 - [Overview](#overview)
